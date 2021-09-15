@@ -41,6 +41,7 @@ References
 ---
 * Gamma, E. et al. Design Patterns: Elements of Reusable Object-Oriented Software, Addison-Wesley, 1994
 * Hiroshi Yuki. Learning Design Patterns in Java [In Japanese Language], Softbank publishing, 2004
+* Schmager, F. Evaluating the GO Programming Language with Design Patterns, 2010
 
 Links
 ---
